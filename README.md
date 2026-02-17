@@ -108,3 +108,6 @@ Make sure:
 This is an experimental prototype and may require manual configuration depending on hardware and monitor setup.
 
 ---
+## Demo
+
+https://github.com/Terminator1321/3DEffect_os/blob/main/demo.mp4
