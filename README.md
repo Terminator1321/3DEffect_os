@@ -73,7 +73,7 @@ If you do not have a physical second monitor, you can use a virtual display solu
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/3DEffect_os.git
+git clone https://github.com/Terminator1321/3DEffect_os.git
 cd 3DEffect_os
 pip install -r requirements.txt
 ```
